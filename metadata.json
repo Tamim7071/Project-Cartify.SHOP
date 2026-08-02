@@ -1,0 +1,6 @@
+{
+  "name": "Cartify.shop",
+  "description": "Tech & Gadget Storefront in Bangladesh with instant order, bKash/Nagad checkout, and spec datasheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
